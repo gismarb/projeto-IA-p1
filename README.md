@@ -1,6 +1,6 @@
 # Prova de Inteligência Artificial (Sistemas de Informação 2s2021).
 
-**Estudo de Caso: Maper o fluxo de processos de um sistema de logística e tranporte de mercadorias.**
+**Estudo de Caso: Mapear o fluxo de processos de um sistema de logística e tranporte de mercadorias.**
 
 --------------------------------
 
