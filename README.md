@@ -65,4 +65,4 @@ opções e/ou sugestões de melhorias para aplicação no processo (do ponto de 
 
 ------
 
-[Relatório de Atividade  Final - IA](./Docments/Relatorio_Atividade_Prova1_IA-Final.pdf)
+[Relatório de Atividade  Final - IA](./Documents/Relatorio_Atividade_Prova1_IA-Final.pdf)
